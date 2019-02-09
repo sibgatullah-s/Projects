@@ -1,7 +1,7 @@
 # Projects
 This repository contains side projects.
 
-1. Game Of Life (Python)
+1. Game Of Life (using python)
 
 # Ideas
 
