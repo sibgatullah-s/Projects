@@ -2,6 +2,7 @@
 This repository contains side projects.
 
 1. Game Of Life (using python)
+2. To Do List (java, work in progress)
 
 # Ideas
 
