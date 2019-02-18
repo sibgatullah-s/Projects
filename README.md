@@ -7,4 +7,8 @@ This repository contains side projects.
 # Ideas
 
 1. To Do List
+    - Features / Functions:
+        - Time task was added and the due date
+        - Input / Output from a text file
+
 2. Number Converter (binary, octal, hex, decimal)
