@@ -1,9 +1,10 @@
 Blackjack Game:
     1. Deck Class
         - Choose number of decks
+        - Create cards in deck
         - Shuffle method
     2. Card Class
-        - Stores suit and value
+        - Stores suit, value, name of cards**(get name of card)
         - Number card is its value
         - Face is 10
         - Ace can be 1 or 11
