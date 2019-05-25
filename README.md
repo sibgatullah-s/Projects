@@ -15,3 +15,5 @@ This repository contains side projects.
 3. Blackjack Game
     - Choose number of decks
     - Multiple players
+
+4. Projects using Python for review
