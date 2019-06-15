@@ -17,3 +17,5 @@ This repository contains side projects.
     - Multiple players
 
 4. Projects using Python for review
+
+5. Browser Extensions
