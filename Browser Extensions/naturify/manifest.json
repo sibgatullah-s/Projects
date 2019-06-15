@@ -1,0 +1,28 @@
+{
+
+    "manifest_version": 2,
+    "name": "Naturify",
+    "version": "1.0",
+
+    "description": "Adds a browser action icon to the toolbar. Click the button to choose a picture. The active tab content will be replaced",
+
+    "icons": {
+        "48": "icons/nature-48-light.png"
+    },
+
+    "permissions": [
+        "activeTab"
+    ],
+
+    "browser_action": {
+        "default_icon": "icons/nature-48.png",
+        "default_title": "Naturify",
+        "default_popup": "popup/choose_nature.html"
+    },
+
+    "web_accessible_resources": [
+        "nature/waterfall.jpg",
+        "nature/snow.jpg",
+        "nature/nightfall.jpg"
+    ]
+}
