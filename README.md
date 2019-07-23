@@ -20,3 +20,6 @@ This repository contains side projects.
 4. Projects using Python for review
 
 5. Browser Extensions
+
+6. Group Texting App
+    - Using SMS (phone numbers)
