@@ -15,6 +15,7 @@ public class Task {
     public Task (String message) {
         rightNow = java.util.Calendar.getInstance().getTime();
         this.message = message;
+
     }
 
     public Task (String message, int year, int month, int day, int hour, int minute) {
@@ -28,8 +29,27 @@ public class Task {
     // return string representation
     public String toString() {
         if (dateTask != null) {
-            return "Created on: " + rightNow.toString() + "; " + message + "; Due on: " + dateTask.toString() + "\n\n";
+            return "Created on: " + rightNow.toString() + "; " + message + "; Due on: " + dateTask.toString();
         }
-        return rightNow.toString() + "; " + message + "\n\n";
+        return "Created on: " + rightNow.toString() + "; " + message;
+    }
+
+    // return representation
+    public String toRepr() {
+        if (dateTask != null) {
+            return rightNow.toString() + "," + message + "," + dateTask.toString() + "\n";
+        }
+        return rightNow.toString() + "," + message + "\n";
+    }
+
+    public String getStart() {
+        return dateTask.toString();
+    }
+
+    public String getEnd() {
+        if (dateTask != null) {
+            return dateTask.toString();
+        }
+        return "";
     }
 }
