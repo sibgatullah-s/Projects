@@ -21,5 +21,6 @@ This repository contains side projects.
 
 5. Browser Extensions
 
-6. Group Texting App
-    - Using SMS (phone numbers)
+6. App to help with studying?
+	- Choose study times (sessions)
+	- Reminds user during sessions when user is on device
