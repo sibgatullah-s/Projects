@@ -21,6 +21,6 @@ This repository contains side projects.
 
 5. Browser Extensions
 
-6. App to help with studying?
+6. Studying App
 	- Choose study times (sessions)
 	- Reminds user during sessions when user is on device
