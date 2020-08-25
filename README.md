@@ -11,7 +11,7 @@ This repository contains side projects.
         - Time task was added and the due date
         - Input / Output from a text file(csv)
 
-2. Number Converter (binary, octal, hex, decimal)
+2. Number Converter (binary, octal, hex, decimal)*
 
 3. Blackjack Game
     - Choose number of decks
@@ -21,6 +21,10 @@ This repository contains side projects.
 
 5. Browser Extensions
 
-6. Studying App
+6. Studying App*
 	- Choose study times (sessions)
 	- Reminds user during sessions when user is on device
+
+7. Shopping App*
+	- Add items to watchlist
+	- Let user know when price has decreased
