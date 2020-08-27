@@ -1,0 +1,13 @@
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\bin\Debug\netcoreapp3.1\Number Converter.exe
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\bin\Debug\netcoreapp3.1\Number Converter.deps.json
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\bin\Debug\netcoreapp3.1\Number Converter.runtimeconfig.json
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\bin\Debug\netcoreapp3.1\Number Converter.runtimeconfig.dev.json
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\bin\Debug\netcoreapp3.1\Number Converter.dll
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\bin\Debug\netcoreapp3.1\Number Converter.pdb
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\obj\Debug\netcoreapp3.1\Number Converter.csprojAssemblyReference.cache
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\obj\Debug\netcoreapp3.1\Number Converter.AssemblyInfoInputs.cache
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\obj\Debug\netcoreapp3.1\Number Converter.AssemblyInfo.cs
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\obj\Debug\netcoreapp3.1\Number Converter.csproj.CoreCompileInputs.cache
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\obj\Debug\netcoreapp3.1\Number Converter.dll
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\obj\Debug\netcoreapp3.1\Number Converter.pdb
+C:\Users\Sibgatullah\Documents\Projects\Number Converter\obj\Debug\netcoreapp3.1\Number Converter.genruntimeconfig.cache
